@@ -1,0 +1,1 @@
+# Ruby on Rails Tutorial: this is the first app made by [*Naoki Matsumoto*](http://naokimat.com)
